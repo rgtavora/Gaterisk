@@ -1,13 +1,14 @@
 Gaterisk
 ========
 
-Gaterisk - Sistema de Gerenciamento e Monitoramento de Servidores Asterisk
+Gaterisk - Gerenciamento e Monitoramento de Servidores Asterisk
 
 
-Desenvolvido como trabalho da disciplina Redes Convergentes, sob auxilio e orientação do Prof. Geneflides Silva.
+Desenvolvido como trabalho da disciplina Redes Convergentes, sob orientação do Prof. Geneflides Silva.
 
 
-Alunos: Rodrigo Gato & Marília Feitoza
+Alunos: Marília Feitoza
+		Rodrigo Gato
 
 Professor: Geneflides Silva
 
