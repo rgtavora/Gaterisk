@@ -1,0 +1,120 @@
+@CHARSET "ISO-8859-1";
+body {
+	background-color: #8A8B8E;
+	background-repeat: repeat;
+	color: #333;
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 16px;
+	margin: 0 auto;
+	padding: 0px;
+	width: 800px;
+}
+a {
+	color: #333;
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+img {
+	behavior: url(iepngfix.htc);
+	border: none;
+}
+input {
+	color: #333;
+}
+hr {
+	background-color: #FFF;
+	background-image: url("../img/hrule.jpg");
+	background-repeat: repeat-x;
+	background-position: center;
+	border: 0px;
+	height: 1px;
+}
+li {
+	font-size: 14px;
+	list-style-image: url("../img/arrow.png");
+}
+
+#wrapper {
+	background-color: #F69021;
+	box-shadow: 0px 0px 6px 6px #001D2B;
+	padding: 8px;
+	-moz-box-shadow: 0px 0px 6px 6px #001D2B;
+	-webkit-box-shadow: 0px 0px 6px 6px #001D2B;
+}
+#header {
+	background-image: url("../img/header-gaterisk.png");
+	background-position: top;
+	background-repeat: no-repeat;
+	height: 180px;
+}
+#top-menu {
+	background-color: #FFF;
+	color: #727376;
+	font-size: 15px;
+	height: 20px;
+	padding: 4px;
+}
+#top-menu-item {
+	float: left;
+	padding: 0px 4px 0px 4px;
+	text-align: center;
+}
+#top-menu-item a {
+	color: #727376;
+}
+#top-menu-rule {
+	background-color: #FFF;
+	background-image: url("../img/vrule.jpg");
+	background-repeat: repeat-y;
+	background-position: center;
+	float: left;
+	height: 12px;
+	padding: 4px;
+}
+#content {
+	background-color: #FFF;
+	padding: 8px;
+	vertical-align: top;
+}
+#arc-table {
+	margin: 4px;
+	padding: 4px;
+	width: 100%;
+}
+#arc-table tr td{
+	border: 1px solid #999;
+	font-size: 12px;
+	padding: 2px;
+}
+#arc-table-header {
+	background-color: #F69021;
+	color: #FFF;
+	padding: 4px;
+}
+#form-table {
+	margin: 4px;
+	font-size: 14px;
+	padding: 4px;
+	width: 100%;
+}
+#form-table-title {
+	text-align: right;
+	width: 40%;
+}
+#form-table-field {
+	text-align: left;
+	width: 60%;
+}
+#footer {
+	color: #FFF;
+	font-size: 10px;
+	padding: 8px;
+	text-align: center;
+}
+#footer a {
+	color: #FFF;
+	font-size: 10px;
+	font-weight: bold;
+}
